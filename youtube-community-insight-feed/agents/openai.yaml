@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Community Insight Feed"
+  short_description: "Show latest community posts from saved YouTube insight channels."
+  default_prompt: "Show the latest YouTube Community post from each saved insight channel, including original text and images."

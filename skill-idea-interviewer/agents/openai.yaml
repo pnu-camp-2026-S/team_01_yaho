@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Idea Interviewer"
+  short_description: "Turn a vague skill idea into a concise SKILL.md draft."
+  default_prompt: "Help me turn this rough skill idea into a reusable Codex skill draft."
